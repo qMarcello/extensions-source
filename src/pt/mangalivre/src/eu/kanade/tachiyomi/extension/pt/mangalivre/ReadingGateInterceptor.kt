@@ -89,7 +89,7 @@ class ReadingGateInterceptor(
     companion object {
         private const val REFRESH_COOLDOWN_MS = 60_000L
         private const val PASS_CHAPTERS = "auth2028xy"
-        private const val PASS_DEFAULT = "decoy99xz"
+        private const val PASS_DEFAULT = "qedh6j2musffc129c30eqt"
         private const val NON_JSON_MESSAGE =
             "Não foi possível decifrar a resposta. Abra a fonte na WebView do app e tente de novo."
     }
